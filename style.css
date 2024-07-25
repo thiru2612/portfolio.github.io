@@ -41,3 +41,10 @@ img{
   p{
     font-size: 30px;
   }
+  footer{
+      background-color: rgb(211, 255, 255);
+      padding-left: 50px;
+    }
+    .con{
+      text-align: left;
+    }
