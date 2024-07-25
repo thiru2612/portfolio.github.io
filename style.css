@@ -1,0 +1,25 @@
+h2{
+    padding-top: 15px;
+}
+.navi{
+    padding-left: 70%;
+}
+a{
+    padding: 10px;
+    text-decoration: none;
+    margin-right: 5px solid grey;
+    color: black;
+    background-color: grey;
+    margin: 0%;
+    border-radius: 10%;
+}
+a:hover{
+    background-color: black;
+    color: white;
+}
+img{
+    width: 200px;
+    height: 300px;
+    border-radius: 15%;
+    align-items: flex-start;
+}
